@@ -25,7 +25,7 @@
 
 
 ### ⚡ Energy, Grid & Infrastructure
-- **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)**: Orchestration layer for data center and energy intelligence; start with execute_plan; Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (96 tools) at https://dchub.cloud/mcp.
+- **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)**: Orchestration layer for data center and energy intelligence; start with execute_plan; Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (97 tools) at https://dchub.cloud/mcp.
 
 ### 🛡️ Systems & Security
 - **Phantom Fortress MCP**: Kernel-level cyber telemetry inspection and threat analysis.
